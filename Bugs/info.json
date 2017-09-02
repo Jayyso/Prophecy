@@ -1,0 +1,7 @@
+{
+    "AUTHOR" : "IAmNavaz",
+    "INSTALL_MSG" : "Thanks for install my cog !",
+    "NAME" : "bugs",
+    "SHORT" : "Make a report box",
+    "DESCRIPTION" : "collects report bugs, dumps them in configured channel(s)"
+}
